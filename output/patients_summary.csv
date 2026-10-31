@@ -1,0 +1,9 @@
+metric,value
+patients,30000
+birth_year missing,371
+birth_year min,1941
+birth_year max,1996
+site_code values,3
+patients at N01,13739
+patients at S02,15706
+patients at E04,555

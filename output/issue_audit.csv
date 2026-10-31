@@ -1,0 +1,11 @@
+issue,count
+patients: gender values that are not a code,6968
+patients: empty gender,486
+patients: birth_year sentinel 9999,371
+patients: site codes needing normalization,1811
+sites: rows with a repeated site_code,4
+visits: visit labels that are not baseline or week12,2309
+visits: sbp sentinel 999,341
+visits: sbp outside 70 through 250,116
+visits: date parse failures,169
+visits: rows in repeated patient_id and visit pairs,380

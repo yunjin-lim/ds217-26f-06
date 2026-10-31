@@ -1,0 +1,4 @@
+       6 data/sites.csv
+   26298 data/visits_north.csv
+   31075 data/visits_south.csv
+   57379 total

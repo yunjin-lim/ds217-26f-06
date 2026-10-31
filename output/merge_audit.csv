@@ -1,0 +1,8 @@
+check,count
+visits with an A1c result,54006
+visits without an A1c result,3175
+A1c results without a visit,2754
+visits whose patient is not in the registry,79
+registry patients with no visit,441
+registry patients whose site is not in the site list,555
+site list rows removed by the current-record rule,2

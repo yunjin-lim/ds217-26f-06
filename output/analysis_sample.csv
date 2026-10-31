@@ -1,0 +1,29 @@
+patient_id,visit,visit_date,sbp_mmhg,weight_kg,a1c_pct,gender,birth_year,site_code,site_name,source_file
+P00001,baseline,2026-03-06,146,52.4,7.3,F,1966,S02,South Valley Clinic,visits_south.csv
+P00001,week12,2026-05-27,129,50.2,,F,1966,S02,South Valley Clinic,visits_south.csv
+P00004,baseline,2026-02-25,142,106.2,7.3,X,,N01,North Clinic,visits_north.csv
+P00088,baseline,2026-03-10,152,68.2,8.4,F,1980,N01,North Clinic,visits_north.csv
+P00088,week12,2026-06-03,147,66.3,7.6,F,1980,N01,North Clinic,visits_north.csv
+P00260,baseline,,70,80.4,9.5,F,1979,E04,,visits_south.csv
+P00260,week12,2026-06-10,138,78.6,8.0,F,1979,E04,,visits_south.csv
+P00446,baseline,,250,,6.5,F,1946,S02,South Valley Clinic,visits_south.csv
+P00446,week12,2026-04-02,144,94.3,6.8,F,1946,S02,South Valley Clinic,visits_south.csv
+P00487,baseline,2026-03-02,,103.0,7.9,M,1959,S02,South Valley Clinic,visits_south.csv
+P00487,week12,2026-05-26,143,,7.8,M,1959,S02,South Valley Clinic,visits_south.csv
+P00851,baseline,2026-03-17,,87.1,7.9,F,1967,N01,North Clinic,visits_north.csv
+P00851,week12,2026-06-04,129,87.2,7.3,F,1967,N01,North Clinic,visits_north.csv
+P02354,baseline,2026-03-05,127,69.5,6.6,F,1966,S02,South Valley Clinic,visits_south.csv
+P02354,week12,2026-06-01,125,67.7,6.9,F,1966,S02,South Valley Clinic,visits_south.csv
+P03836,baseline,2026-01-29,134,66.2,7.0,F,1971,N01,North Clinic,visits_north.csv
+P03836,week12,2026-04-13,125,65.6,6.6,F,1971,N01,North Clinic,visits_north.csv
+P05763,baseline,2026-02-27,161,103.7,7.3,F,1960,S02,South Valley Clinic,visits_south.csv
+P05763,week12,2026-06-04,151,101.0,7.2,F,1960,S02,South Valley Clinic,visits_south.csv
+P07510,baseline,2026-02-19,133,83.3,,F,1985,S02,South Valley Clinic,visits_south.csv
+P07510,week12,2026-04-29,,82.0,,F,1985,S02,South Valley Clinic,visits_south.csv
+P14287,baseline,2026-01-23,155,132.7,7.4,M,1968,N01,North Clinic,visits_north.csv
+P14287,week12,2026-04-10,151,129.9,6.8,M,1968,N01,North Clinic,visits_north.csv
+P16486,baseline,2026-01-27,164,86.0,7.1,F,1950,S02,South Valley Clinic,visits_south.csv
+P16486,week12,2026-05-01,151,87.5,7.6,F,1950,S02,South Valley Clinic,visits_south.csv
+P17390,baseline,2026-01-14,143,62.1,9.3,F,1970,N01,North Clinic,visits_north.csv
+P17390,week12,2026-04-03,131,61.6,8.4,F,1970,N01,North Clinic,visits_north.csv
+P30001,baseline,2026-03-10,161,95.6,8.2,,,,,visits_south.csv
